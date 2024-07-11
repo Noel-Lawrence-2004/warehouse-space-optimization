@@ -7,9 +7,8 @@ This project aims to optimize warehouse space by utilizing a Streamlit web appli
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
